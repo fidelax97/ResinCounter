@@ -245,15 +245,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Resin Counter"
-        "ProductCode" = "8:{3F14D40B-6133-445E-8183-7C4B119DE9D6}"
-        "PackageCode" = "8:{B3B1438B-A364-40EE-85A9-1A3352086FB3}"
-        "UpgradeCode" = "8:{9FDEE1DD-72CA-47B9-B1A4-4C8C6E1D8F87}"
+        "ProductCode" = "8:{B7F914D0-0BCF-4C39-9C00-CC756A32FF09}"
+        "PackageCode" = "8:{39257DC8-ED3E-4315-A6C2-547F0B8151E8}"
+        "UpgradeCode" = "8:{98954C02-E9C6-481E-ABBD-4198658A8603}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.0.1"
         "Manufacturer" = "8:fx"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -377,7 +377,7 @@
             "Target" = "8:_F8095FA75DE24F8FA2370E696450C59A"
             "Folder" = "8:_C323ED731C48462B85BB18792CD276AD"
             "WorkingFolder" = "8:_8DC09C93F17441A297983A5F25BDED8B"
-            "Icon" = "8:"
+            "Icon" = "8:_F8095FA75DE24F8FA2370E696450C59A"
             "Feature" = "8:"
             }
         }
@@ -781,7 +781,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_F8095FA75DE24F8FA2370E696450C59A"
             {
-            "SourcePath" = "8:..\\Resin Counter\\obj\\Debug\\Resin Counter.exe"
+            "SourcePath" = "8:..\\Resin Counter\\obj\\Release\\Resin Counter.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8DC09C93F17441A297983A5F25BDED8B"
