@@ -21,6 +21,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_B0FF63E15A794F258D680A9DC4662DAF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_BDA4D0B982A8B5C59F495C340C80CD65"
         "OwnerKey" = "8:_F8095FA75DE24F8FA2370E696450C59A"
         "MsmSig" = "8:_UNDEFINED"
@@ -158,6 +164,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B0FF63E15A794F258D680A9DC4662DAF"
+            {
+            "SourcePath" = "8:..\\Resin Counter\\zh-cn.ttf"
+            "TargetName" = "8:zh-cn.ttf"
+            "Tag" = "8:"
+            "Folder" = "8:_22664CC46A1549919141A53015049EE5"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:5"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BDA4D0B982A8B5C59F495C340C80CD65"
             {
             "AssemblyRegister" = "3:1"
@@ -195,6 +221,17 @@
         }
         "Folder"
         {
+            "{1525181F-901A-416C-8A58-119130FE478E}:_22664CC46A1549919141A53015049EE5"
+            {
+            "Name" = "8:#1911"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:FontsFolder"
+                "Folders"
+                {
+                }
+            }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_8DC09C93F17441A297983A5F25BDED8B"
             {
             "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
@@ -781,7 +818,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_F8095FA75DE24F8FA2370E696450C59A"
             {
-            "SourcePath" = "8:..\\Resin Counter\\obj\\Release\\Resin Counter.exe"
+            "SourcePath" = "8:..\\Resin Counter\\obj\\Debug\\Resin Counter.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8DC09C93F17441A297983A5F25BDED8B"
