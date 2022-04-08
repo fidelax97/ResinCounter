@@ -106,6 +106,7 @@
     <Content Include="background.png" />
     <Content Include="DesignBust_genshin_impact_folder_icon256.ico" />
     <Content Include="icon.ico" />
+    <Content Include="RELEASE-NOTES.txt" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

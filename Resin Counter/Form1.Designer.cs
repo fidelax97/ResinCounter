@@ -123,18 +123,17 @@ namespace Resin_Counter
             // 
             this.completedTime.BackColor = System.Drawing.Color.Transparent;
             this.completedTime.Font = new System.Drawing.Font("HYWenHei-85W", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.completedTime.Location = new System.Drawing.Point(407, 232);
+            this.completedTime.Location = new System.Drawing.Point(393, 232);
             this.completedTime.Name = "completedTime";
-            this.completedTime.Size = new System.Drawing.Size(209, 25);
+            this.completedTime.Size = new System.Drawing.Size(239, 25);
             this.completedTime.TabIndex = 8;
-            this.completedTime.Text = "     \r\n";
+            this.completedTime.Text = "     \r\n\r\n";
             this.completedTime.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // notifyIcon1
             // 
             this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
             this.notifyIcon1.Text = "Resin Counter";
-            this.notifyIcon1.Visible = true;
             // 
             // label4
             // 

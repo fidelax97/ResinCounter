@@ -1,0 +1,20 @@
+﻿RESIN COUNTER v1.2
+
+April 8, 2022
+
+Updates:
+- When minimize the app, it will automatically minimize to system tray
+- Hover over your mouse to app's icon in system tray will show alarm status(ex: No alarm set/Completed time)
+- Right click on the app's icon will show exit option
+- Double-click on the app's icon will show the UI
+
+Bug Fixes:
+- Fixed: Completed time for certain value of resin was not shown
+
+
+
+
+
+
+
+-Fidel-

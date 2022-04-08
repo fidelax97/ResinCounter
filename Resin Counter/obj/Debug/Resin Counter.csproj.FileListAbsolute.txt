@@ -11,7 +11,6 @@ C:\Users\Admin\source\repos\Learning\Resin Counter\obj\Debug\Resin Counter.pdb
 C:\Users\Admin\source\repos\Learning\ResinCounter\Resin Counter\bin\Debug\Resin Counter.exe.config
 C:\Users\Admin\source\repos\Learning\ResinCounter\Resin Counter\bin\Debug\Resin Counter.exe
 C:\Users\Admin\source\repos\Learning\ResinCounter\Resin Counter\bin\Debug\Resin Counter.pdb
-C:\Users\Admin\source\repos\Learning\ResinCounter\Resin Counter\obj\Debug\Resin Counter.csproj.AssemblyReference.cache
 C:\Users\Admin\source\repos\Learning\ResinCounter\Resin Counter\obj\Debug\Resin_Counter.Form1.resources
 C:\Users\Admin\source\repos\Learning\ResinCounter\Resin Counter\obj\Debug\Resin_Counter.Properties.Resources.resources
 C:\Users\Admin\source\repos\Learning\ResinCounter\Resin Counter\obj\Debug\Resin Counter.csproj.GenerateResource.cache
